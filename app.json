@@ -1,8 +1,8 @@
 {
   "expo": {
-    "android": { "package": "com.mythicalxen.xen" }
+    "android": { "package": "com.mythicalxen.xen" },
     "name": "Xen",
-    "slug": "xen",
+    "slug": "Xen",
     "owner": "mythical.xen",
     "runtimeVersion": { "policy": "sdkVersion" }
   }
