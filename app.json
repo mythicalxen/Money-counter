@@ -2,8 +2,11 @@
   "expo": {
     "android": { "package": "com.mythicalxen.xen" },
     "name": "Xen",
-    "slug": "Xen",
+    "slug": "xen",
     "owner": "mythical.xen",
-    "runtimeVersion": { "policy": "sdkVersion" }
+    "runtimeVersion": { "policy": "sdkVersion" },
+    "extra": {
+      "eas": { "projectId": "bdfc43ea-fb59-4951-898e-5ce29ce3a01e" }
+    }
   }
 }
