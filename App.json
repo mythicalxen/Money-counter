@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Xen",
+    "slug": "xen",
+    "owner": "mythical.xen",
+    "runtimeVersion": { "policy": "sdkVersion" }
+  }
+}
